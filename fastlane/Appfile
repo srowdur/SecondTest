@@ -1,0 +1,7 @@
+app_identifier "com.rowdur.SecondTest" # The bundle identifier of your app
+apple_id "srinivas.rowdur@gmail.com" # Your Apple email address
+
+team_id "8C4V5Y6W3A" # Developer Portal Team ID
+
+# you can even provide different app identifiers, Apple IDs and team names per lane:
+# More information: https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Appfile.md
